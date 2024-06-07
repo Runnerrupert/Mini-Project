@@ -1,0 +1,35 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    right: 30%;
+}
+
+.positioning {
+    position: relative;
+    left: 30px;
+}
+
+div {
+    width: 70%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 20px solid black;
+    background-color: white;
+}
